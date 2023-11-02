@@ -1,3 +1,5 @@
+![SB-blog-5-research-stats_112420-550x300](https://github.com/Sabeerwaqas/Sabeerwaqas/assets/71982222/9f52b9e5-467b-4d38-9ad5-2e0a27354305)
+
 # 💫 About Me:
 👋 Hello there, I'm Sabeer Waqas!<br><br>💻 As a React JS developer, I'm passionate about crafting elegant web solutions. Currently pursuing my BSCS at the Virtual University of Pakistan, I'm on a journey to expand my knowledge and skills.<br><br>🚀 My tech arsenal includes HTML5, CSS3, JavaScript, React, Redux-Toolkit, and Material UI. I love tinkering with code, building beautiful user interfaces, and making web apps come to life.<br><br>🌐 When I'm not busy coding, you can find me in the world of API testing using Postman, exploring new tech trends, and diving into the fascinating world of research and development.<br><br>✍️ I'm also a tech enthusiast who enjoys writing articles to share insights and experiences with the community.
 
